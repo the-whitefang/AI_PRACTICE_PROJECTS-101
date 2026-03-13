@@ -50,7 +50,7 @@ def speech_to_text():
     return text.strip()
 
 
-# Bot Logic
+# Bot Logic ->
 def get_response(text):
 
     text = text.lower()
