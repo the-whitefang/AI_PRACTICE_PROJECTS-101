@@ -1,0 +1,4 @@
+Friday is voice assistant designed to demonstrate AI powered conversations.
+Friday can help users interact with AI using speech.
+Friday uses speech recognition, large language models and text to speech.
+Friday can act as a teacher of class 5 student and answer any questions asked about class 5 science subject.
